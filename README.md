@@ -10,6 +10,6 @@ npm i @reduxjs/toolkit
 
 npm start 
 
-<!--  
- the app is not finished yet to edit contacts, it can store them list them and delete them for the moment 
--->
+
+the app is not finished yet to edit contacts, it can store them list them and delete them for the moment 
+
