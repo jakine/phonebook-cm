@@ -8,7 +8,7 @@ npm i
 npm i react-redux
 npm i @reduxjs/toolkit
 
-npmm start 
+npm start 
 
 <!--  
  the app is not finished yet to edit contacts, it can store them list them and delete them for the moment 
